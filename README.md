@@ -8,3 +8,7 @@ Recipes for barbecue
 ## Corn on the cob
 - 200-220°C
 - 20 min
+
+## Fish
+- 250-300°C
+- 15-20 min
