@@ -1,4 +1,4 @@
-# barbecue
+# Barbecue
 Recipes for barbecue
 
 ## Vegetable
