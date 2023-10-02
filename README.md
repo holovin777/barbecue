@@ -18,3 +18,7 @@ Recipes for barbecue
 ### Rack of pork ribs
 - 105-135°C
 - 2-3 hours
+
+### Loin slices
+- 200-230°C
+- 2-3 min one side
