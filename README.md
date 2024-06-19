@@ -9,7 +9,7 @@ Recipes for barbecue
 
 ### Peperoni
 - 220°C
-- 16 min
+- 20 min
 
 ## Fish
 
