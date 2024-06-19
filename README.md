@@ -7,7 +7,7 @@ Recipes for barbecue
 - 200-220°C
 - 20 min
 
-### Peperoni
+### Peppers
 - 220°C
 - 20 min
 
